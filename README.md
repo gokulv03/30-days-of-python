@@ -1,2 +1,14 @@
-# 30-days-of-python
-My 30-day challenge to master core Python skills.
+
+# 30 Days of Python 🐍
+
+Welcome to my **30-day Python learning challenge!**
+
+## 📅 Challenge Overview
+This repository tracks my daily progress as I deepen my Python skills step-by-step. Each day includes:
+
+- Key notes and concepts learned
+- Practice exercises
+- Code snippets and solutions
+
+## 🗂️ Folder Structure
+
